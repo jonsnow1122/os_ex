@@ -1,0 +1,2 @@
+/home/snowyy1/chardev-1.2/chardev.o
+
